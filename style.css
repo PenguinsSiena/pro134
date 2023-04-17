@@ -1,0 +1,27 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#status, #number_of_objects, #start
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+canvas{
+    border-radius: 10px;
+    border: 7px double black;
+    box-shadow: 10px 10px 10px rgb(69, 69, 69);
+    margin-top: 60px;
+}
+
+h2{
+    font-size: 20px;
+}
